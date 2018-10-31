@@ -1,4 +1,10 @@
-<style>
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>
+      Warren Buffett Bio
+    </title>
+  
 html,body{
   font-family:"Trebuchet MS", Helvetica, sans-serif;
   text-align:center;
@@ -45,8 +51,8 @@ blockquote{
 }
 
 </style>
-<script src="https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js"></script>
-<script src="https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js"></script>
+</head>
+<body>
 <div id="main">
   <h1 id="title">Lagendary Warren Buffett</h1>
   <div>The Man With Wisdom Of Tomorrow</div>
@@ -95,3 +101,5 @@ Obama praises him for demonstrating that “integrity isn’t just a good trait 
     <h3>If you have time you should read more about this incredible being on <a id="tribute-info" target="_blank" href="https://buffett.cnbc.com/buffett-timeline/">CNBC Page</a>.</h3>
     </div>
   </div>
+  </body>
+  </html>
