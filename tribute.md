@@ -4,7 +4,7 @@
     <title>
       Warren Buffett Bio
     </title>
-  
+ <style> 
 html,body{
   font-family:"Trebuchet MS", Helvetica, sans-serif;
   text-align:center;
