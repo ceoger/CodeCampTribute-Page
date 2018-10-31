@@ -1,9 +1,8 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>
-      Warren Buffett Bio
-    </title>
+    <title>Warren Buffett Bio</title>
+  </head>
  <style> 
 html,body{
   font-family:"Trebuchet MS", Helvetica, sans-serif;
