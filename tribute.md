@@ -3,7 +3,7 @@ html,body{
   font-family:"Trebuchet MS", Helvetica, sans-serif;
   text-align:center;
   min-width:280px;
-  color:#333;
+  color:#332;
 }
 #main{
   margin:30px auto;
